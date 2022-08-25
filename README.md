@@ -6,5 +6,5 @@ This is fully structured code so there's no function to use other than the cmds 
 Please be reminded that libraries
 - MySQL
 - weapon-damage
-- sscanf
+- sscanf\n
 Must be on your gamemode.
